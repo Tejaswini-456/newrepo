@@ -1,2 +1,2 @@
 # newrepo
-Learn through this repo
+Learn through this repo on how to understand git
